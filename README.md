@@ -1,4 +1,8 @@
-### Hi there 👋
+### FullStack Developer
+
+### ✨Tomas Tinto✨
+
+### https://www.linkedin.com/in/tomas-tinto-320a85236/
 
 <!--
 **TomasTinto1234/TomasTinto1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
