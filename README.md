@@ -1,6 +1,6 @@
-### FullStack Developer
+### FullStack Developer😄. ✨from Argentina to the world✨
 
-### ✨Tomas Tinto✨
+### Tomas Tinto
 ### contacto: tititinto@gmail.com
 ### movil: 1161263966
 
