@@ -1,10 +1,22 @@
+![hello world](https://user-images.githubusercontent.com/94464195/195352402-38c970e7-575f-480d-a62f-8eb8fa0422d7.png)
+
+## Tomas Tinto
+
 ### FullStack Developer😄. ✨from Argentina to the world✨
 
-### Tomas Tinto
-### contacto: tititinto@gmail.com
-### movil: 1161263966
 
+### SOBRE MI
+me considero una persona apasionada por la tecnología con muchas ganas de aprender día a día mas, seguir creciendo y demostrar de que tengo potencial para el mundo it. también me considero buen compañero ya que en los grupos donde trabaje siempre me importo que salgamos todos juntos adelante.
 
+### DATOS DE CONTACTO
+## mail: tititinto@gmail.com
+## movil: 1161263966
+
+### TECNOLOGIAS
+## HTML, CSS, JavaScript, React, Redux, Node, Express, PostgresSQL, MongoDB, SCRUM
+![banner2](https://user-images.githubusercontent.com/94464195/195352058-041a4a8a-96d3-4c9e-985e-233c0bf59751.jpeg)
+
+LinkedIn
 ### https://www.linkedin.com/in/tomas-tinto-320a85236/
 
 
