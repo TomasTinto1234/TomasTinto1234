@@ -1,8 +1,12 @@
 ### FullStack Developer
 
 ### ✨Tomas Tinto✨
+### contacto: tititinto@gmail.com
+### movil: 1161263966
+
 
 ### https://www.linkedin.com/in/tomas-tinto-320a85236/
+
 
 <!--
 **TomasTinto1234/TomasTinto1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
