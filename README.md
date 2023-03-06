@@ -9,7 +9,7 @@
 me considero una persona apasionada por la tecnología con muchas ganas de aprender día a día mas, seguir creciendo y demostrar de que tengo potencial para el mundo it. también me considero buen compañero ya que en los grupos donde trabaje siempre me importo que salgamos todos juntos adelante.
 
 # Datos de contacto
-### mail: tititinto@gmail.com
+### mail: tomastinto07@gmail.com
 ### movil: 1161263966
 
 # Tecnologias
