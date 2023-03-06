@@ -5,8 +5,8 @@
 ### FullStack Developer😄. ✨from Argentina to the world✨
 
 
-# Sobre mi
-me considero una persona apasionada por la tecnología con muchas ganas de aprender día a día mas, seguir creciendo y demostrar de que tengo potencial para el mundo it. también me considero buen compañero ya que en los grupos donde trabaje siempre me importo que salgamos todos juntos adelante.
+# About Me
+I’m a developer with experience in building websites for small and medium sized businesses. Whether you’re trying to win work, list your services or even create a whole online store – I can help! Regular communication is really important to mee, so let’s keep in touch
 
 # Datos de contacto
 ### mail: tomastinto07@gmail.com
